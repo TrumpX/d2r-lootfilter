@@ -17,7 +17,7 @@ Unpack the game files for better performance.
    > ```-direct -txt```
 
 ### Installation
-1. Overwrite the language files inside your Diablo II Resurrected}Data\local\lng\strings directory with the files provided.
+1. Overwrite the language files inside your ```\Data\local\lng\strings``` game directory with the files provided.
 2. Set in-game language to english if not already done.
 
 
